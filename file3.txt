@@ -1,0 +1,4 @@
+<Files "logs.txt">
+  Require all denied
+</Files>
+
